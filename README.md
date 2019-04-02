@@ -1,4 +1,4 @@
-# Finding relation between Night Lights data and economic factors related to Poverty
+### Finding relation between Night Lights data and economic factors related to Poverty
 
 Surveys data of household income and consumption have been traditionally used by researchers to
 measure economic activities, wealth, and poverty. However, there are many limitations of this
